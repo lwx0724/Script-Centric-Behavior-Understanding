@@ -1,0 +1,36 @@
+{
+    "id": "chatcmpl-BKIEcj3h6CmeRbBUhw0wG3n2yS8Sp",
+    "object": "chat.completion",
+    "created": 1744176354,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Consensus: [ASD]\n\n2. Reasons: [The majority of doctors (4 out of 5) agree on a diagnosis of Autism Spectrum Disorder (ASD) for the child. The primary reasons for this diagnosis include significant deficits in social-emotional reciprocity, as evidenced by the lack of social smiling despite making eye contact during the Social Smile paradigms. This behavior is a critical indicator of atypical social interaction. Additionally, the child exhibits inconsistent responses to name-calling, responding appropriately only once when the doctor called the child's name but not when the parent called. This inconsistency in response to social cues is another significant indicator of potential ASD. The child's persistent focus on the toy car and limited reaction to sensory stimuli, such as animations and sounds, further support the consideration of ASD. While the child did show some joint attention by pointing to objects and sharing findings with the doctor, these behaviors were not consistent across all paradigms. The clustering of these atypical behaviors across multiple domains, particularly the lack of social smiling and inconsistent response to name-calling, aligns with the DSM-5 criteria for ASD. The child's reaction to separation anxiety was appropriate, which is a positive sign, but it does not negate the overall pattern of atypical social behaviors.]",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 4111,
+        "completion_tokens": 255,
+        "total_tokens": 4366,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_432e014d75"
+}

@@ -1,0 +1,35 @@
+{
+    "id": "chatcmpl-Azer9GZX5VIgPYtNBzY7zpArhxDLX",
+    "object": "chat.completion",
+    "created": 1739258423,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Reasons for autism spectrum disorder judgment: [The child demonstrates some typical social behaviors and nonverbal communication; however, there are notable inconsistencies. The child's response to the \"Response to Name\" paradigm is delayed but eventually proactive, indicating some social-emotional reciprocity. The child engages in eye contact and exhibits positive emotional expressions during interactions, such as smiling and laughing, and takes some social initiative in activities. However, there are instances where the child does not respond to social smiles and continues to play with toys, which could suggest a deficit in social-emotional reciprocity or nonverbal communicative behaviors. During the \"Joint Attention\" and \"Initiating Joint Attention\" paradigms, the child does respond to some stimuli and attempts to share interest, but there are also times when the child fails to react to sensory input or maintain engagement in social tasks. The child's interest in playing with a toy car is consistent, but it does not appear to be highly restricted or fixated. Overall, while there are signs of typical development, the presence of some symptoms and inconsistencies in social engagement and response to sensory input raise concerns about ASD.]\n\n2. Autism spectrum disorder Judgment results: [1]",
+                "refusal": null
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 20395,
+        "completion_tokens": 242,
+        "total_tokens": 20637,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_4691090a87"
+}

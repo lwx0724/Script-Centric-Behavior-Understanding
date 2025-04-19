@@ -1,0 +1,36 @@
+{
+    "id": "chatcmpl-BKFop6nhAw1ffNPUUe9CubuQfjqt2",
+    "object": "chat.completion",
+    "created": 1744167067,
+    "model": "gpt-4o-2024-08-06",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Consensus: [ASD]\n\n2. Reasons: [The majority of doctors agree that the child exhibits behaviors consistent with autism spectrum disorder (ASD). Key indicators include deficits in social-emotional reciprocity, such as the lack of smiling response during social smile paradigms and limited eye contact. The child's responses to their name and instructions are inconsistent, indicating deficits in nonverbal communicative behaviors. There is difficulty in initiating and maintaining joint attention, as seen in the child's limited reactions during the Indicating Gesture and Joint Attention paradigms. The child also demonstrates reduced separation anxiety, showing no response when the parent leaves the room, which is atypical for a child of this age and suggests a deficit in developing and maintaining relationships. While the child does show some typical behaviors, such as turning towards the doctor when their name is called and pointing out the location of the flower and sofa pictures, the pattern of deficits in social interaction and communication is concerning and aligns with ASD criteria.]",
+                "refusal": null,
+                "annotations": []
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3783,
+        "completion_tokens": 197,
+        "total_tokens": 3980,
+        "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "audio_tokens": 0,
+            "accepted_prediction_tokens": 0,
+            "rejected_prediction_tokens": 0
+        }
+    },
+    "service_tier": "default",
+    "system_fingerprint": "fp_432e014d75"
+}

@@ -1,0 +1,99 @@
+#CONTEXT#
+The gender of the child is male, The age of the child is 26 months old.
+00:00-01:00.000: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The Doctor sits 2 meter behind the child's left, looking at the child.
+01:00.000-01:17.000: The doctor conduct the Response to Name paradigm during this process
+01:02.750-01:03.750: The doctor called out the child's name.
+01:05.625-01:06.625: The doctor called out the child's name.
+01:09.250-01:10.250: The doctor called out the child's name.
+01:10.250-01:13.000: The child turns alertly toward the doctor and look at the doctor proactively.
+01:17.000-02:17.000: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The Doctor sits 2 meter behind the child's left, looking at the child.
+02:17.000-02:33.500: The doctor conduct the Response to Name paradigm during this process
+02:18.875-02:19.875: The doctor called out the child's name.
+02:23.375-02:24.375: The doctor called out the child's name.
+02:30.125-02:31.125: The doctor called out the child's name.
+02:23.250-02:27.125: The child turns alertly toward the doctor and look at the doctor proactively with saying hello.
+02:33.500-03:33.500: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child.
+03:33.500-03:51.250: The doctor conduct the Social Smile paradigm during this process.
+03:33.500-03:51.250: The doctor greets the child with a passional smile and say hello
+03:33.500-03:51.250: The child bent his head and went on playing with the toy.
+03:51.250-04:51.250: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child.
+04:51.250-05:03.375: The doctor conduct the Social Smile paradigm during this process.
+04:51.250-05:03.375: The doctor praises the child with a warm smile that you are excellent!
+04:51.250-05:03.375: The child bent his head and went on playing with the toy.
+05:03.375-06:03.375: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child.
+06:03.375-06:43.875: The doctor conduct the Social Smile paradigm during this process.
+06:03.375-06:43.875: The doctor plays a tickle game with the child.                         The doctor moves his hand slowly towards the child with a smile and gently touches the child.
+06:03.375-06:43.875: The child bent his head and went on playing with the toy.
+06:43.875-07:43.875: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child.
+07:43.875-08:33.000: The parent conduct the Social Smile paradigm during this process.
+07:43.875-08:33.000: With a warm smile, parents entertain their children in whatever way they normally do in their daily lives.
+07:46.625-07:53.375: The child looked up and made eye contact with the doctor alertly.
+07:56.250-07:56.250: The child look at the doctor alertly and smile .
+08:33.000-09:33.000: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. A pre-projected flower picture is displayed on the wall 1.5 meters in front of the child's left.
+09:33.000-09:59.250: The doctor conduct the Indicating Gesture paradigm during this process.
+09:33.000-09:34.000: The doctor call the child's name and say "Look at that flower."
+09:49.375-09:52.000: The child looked up  in the direction of the picture.
+09:50.750-09:53.375: The child precisely  points out the location of the picture. 
+09:36.625-09:41.250: The child turns around  and makes eye contact with the doctor to share his findings proactively.
+09:59.250-10:59.250: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. A pre-projected tree picture is displayed on the wall 1.5 meters in front of the child's left.
+10:59.250-11:12.625: The doctor conduct the Indicating Gesture paradigm during this process.
+11:01.250-11:02.250: The doctor call the child's name and say "Look at that tree."
+11:01.750-11:02.750: The child looked up agilely in the direction of the picture.
+11:05.125-11:06.125: The child precisely  points out the location of the picture. 
+11:06.125-11:12.625: The child keeps looking at the picture. 
+11:12.625-12:12.625: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. A pre-projected balloon picture is displayed on the wall 1.5 meters in front of the child's left.
+12:12.625-12:30.125: The doctor conduct the Indicating Gesture paradigm during this process.
+12:17.375-12:18.375: The doctor call the child's name and say "Look at that the balloon."
+12:20.750-12:21.750: The child looked up alertly in the direction of the picture.
+12:20.250-12:21.250: The child roughly{} points out the location of the picture. 
+12:30.125-13:30.125: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. A pre-projected sofa picture is displayed on the wall 1.5 meters in front of the child's left.
+13:30.125-13:45.125: The doctor conduct the Indicating Gesture paradigm during this process.
+13:37.875-13:38.875: The parent call the child's name and say "Look at that sofa."
+13:39.625-13:40.625: The child looked up alertly in the direction of the picture. Then the kid continue to play with his toys. 
+13:45.125-14:45.125: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. A pre-projected picture of a clock is displayed on the wall one meter behind the child. 
+14:45.125-15:18.500: The doctor conduct the Joint Attention paradigm during this process.
+15:03.000-15:05.000: The doctor raises his hand and points to the picture of a clock and says, "Look, there is a clock. what time it is."
+15:08.000-15:08.375: The child turns his head back  and then looks to the position of the clock proactively.
+15:18.500-16:18.500: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. The wall screen and the stereo audio device will suddenly display a three-second animation to attract the child's attention 
+16:18.500-17:01.750: The doctor conduct the Initiating Joint Attention paradigm during this process.
+16:18.500-16:21.500: The wall to the left of the child suddenly displays a yellow bird flapping its wings while a stereo plays the sound of birdsong.
+16:21.500-17:01.750: The child keeps his head down and continues to play with his toy.
+17:01.750-18:01.750: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. The wall screen and the stereo audio device will suddenly display a three-second animation to attract the child's attention 
+18:01.750-18:37.375: The doctor conduct the Initiating Joint Attention paradigm during this process.
+18:01.750-18:04.750: The wall to the right of the child suddenly displays a moving yellow car while the stereo plays the sound of the car moving.
+18:03.000-18:12.250: The child is attracted to the animation playing and looks agilely at the bird on the left wall.
+18:27.000-18:29.625: The child turns around  and makes eye contact proactively with the doctor to share his findings.
+18:10.750-18:12.625: The child raises his hand  and points proactively to the bird on the wall.
+18:37.375-19:37.375: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, looking at the child. The wall screen and the stereo audio device will suddenly display a three-second animation to attract the child's attention 
+19:37.375-20:10.125: The doctor conduct the Initiating Joint Attention paradigm during this process.
+19:37.375-19:40.375: A cow wiggling its ears is suddenly displayed on the wall behind the child's right side while the sound of the cow is played on the stereo.
+19:40.375-20:10.125: The child keeps his head down and continues to play with his toy.
+20:10.125-21:10.125: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The parent sit on the left side of the child, looking at the child. The doctor sits in front of the child, play with the child. 
+21:10.125-21:33.125: The doctor conduct the Eparation Anxiety (SA) paradigm during this process. During the process the parent will leave the room according to a predefined exit path.
+21:10.125-21:16.375: The parent gets up from their seat, walks past the child, then towards the door behind the child, and finally leaves the room.
+21:16.375-21:33.125: The child keeps his head down and continues to play with his toy.
+21:33.125-22:33.125: Preparatory phase: a child sits at a table playing with a toy car, looking at the car. The door is behind the child on the left. Parents stand outside the door, looking at the child. The doctor sits in front of the child, play with the child. 
+22:33.125-22:48.375: The doctor conduct the Eparation Anxiety (SA) paradigm during this process. During the process the parent will leave the room according after saying with the child.
+22:33.125-22:33.250: The parent call the child's name outside the door and say, “Hi, mom is leaving. You have to play alone.”
+22:33.125-22:36.125: The child realizes that the parent has left alertly and gets up and chases him toward the door normally.
+22:36.125-22:48.375: The parents, the doctor and the child have left the room.
+#OBJECTIVE#
+I would like you to analyze the content of the video according to the following [ASD symptoms]. 
+[1.The child of Deficits in social-emotional reciprocity. 
+2. The child of Deficits in nonverbal communicative behaviors used for social interaction. 
+ 3. The child of Deficits in developing, maintaining, and understanding relationships. 
+4. The child of Stereotyped or repetitive motor movements. 
+5. The child of Insistence on sameness, inflexible adherence to routines, or ritualized patterns of verbal or nonverbal behavior. 
+6. The child ofHighly restricted, fixated interests that are abnormal in intensity or focus. 
+7.The child of Hyper- or hyporeactivity to sensory input or unusual interest in sensory aspects of the environment.] 
+Some rules of judgment are as follows: 
+1. The Preparatory phase is the pre-paradigm environment setting, and ASD symptoms in the preparation stage are not observed. 
+2. Please pay more attention to the child's emotions and the time lag between the child's response after the doctor's instruction. 
+3. If a child has more than two symptoms, he can be judged to have ASD. 
+4. As TD children also occasionally fail to respond to instructions, please pay more attention to children's best one response in multiple paradigms. 
+5. In the end, Please judge whether the child is ASD or TD based on the content of the video, 1 means ASD, 0 means TD, and you can only answer 0 or 1 and please give the reason for the judgement. 
+#TONE#
+Healthcare Professional, Accurate
+#RESPONSE FROMAT# 
+Please output the results in the following format, with the answers in [ ]. 1. Reasons for autism spectrum disorder judgment: [ ]
+2. Autism spectrum disorder Judgment results: [ ] 

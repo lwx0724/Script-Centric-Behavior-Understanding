@@ -1,0 +1,23 @@
+{
+    "id": "chatcmpl-9o5vkcKwKXczRzzLPx8mOfVDQjPjs",
+    "object": "chat.completion",
+    "created": 1721726224,
+    "model": "gpt-4o-2024-05-13",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "1. Reasons for autism spectrum disorder judgment: [The child demonstrated appropriate social-emotional reciprocity and nonverbal communicative behaviors. He responded to his name and made eye contact during the Response to Name paradigm. In the Social Smile paradigm, although initially unresponsive to the doctor's smile, the child eventually showed normal social engagement by smiling and making eye contact with the doctor. During the Indicating Gesture and Joint Attention paradigms, the child accurately followed and pointed out the objects as directed by the doctor, and even shared his findings proactively. The child also exhibited normal separation anxiety behavior by chasing after the parent when they left the room. There were no signs of stereotyped or repetitive motor movements, insistence on sameness, or highly restricted interests.]\n\n2. Autism spectrum disorder Judgment results: [0]"
+            },
+            "logprobs": null,
+            "finish_reason": "stop"
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 3366,
+        "completion_tokens": 161,
+        "total_tokens": 3527
+    },
+    "system_fingerprint": "fp_c4e5b6fa31"
+}
