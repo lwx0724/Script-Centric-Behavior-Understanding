@@ -11,9 +11,10 @@
 
 ## code of SUBU-agent
 
-### Closed-source LLM API
+### Closed-source LLMs API
+    code/SCBU-agents/utils.py: sendOneMessageToOpenAI, sendOneMessageTollama3, sendOneMessageTodeepseek, sendOneMessageTocluade, sendOneMessageToqwen
 
 ### Download link for open-source LLMs
-    - [qwen2](https://github.com/yangjianxin1/Qwen2)
-    - [DeepSeekR1](https://github.com/deepseek-ai/DeepSeek-R1)
-    - [OLMo2](https://github.com/allenai/OLMo)
+    - qwen2 [qwen2](https://github.com/yangjianxin1/Qwen2)
+    - DeepSeekR1 [DeepSeekR1](https://github.com/deepseek-ai/DeepSeek-R1)
+    - OLMo2 [OLMo2](https://github.com/allenai/OLMo)
